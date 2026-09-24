@@ -1,0 +1,6 @@
+#cabecera{ /*porq es un id se pone #*/
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
